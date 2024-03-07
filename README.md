@@ -4,7 +4,7 @@ Welcome to my Tailwind CSS Demo Site repository! This project is a playground wh
 
 ## Live Demo
 
-Check out the demo site: [Your GitHub Pages URL here]
+Check out the demo site: [tailwind DEMO](https://nortories.github.io/tailwind-practice/)
 
 ## About This Project
 
